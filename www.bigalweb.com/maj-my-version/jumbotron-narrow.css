@@ -18,10 +18,7 @@ body {
   border-bottom: 1px solid #e5e5e5;
   }
 
-  .center{
-    text-align: center;
-
-}
+ 
 /* Make the masthead heading the same height as the navigation */
 .header h3 {
   margin-top: 0;
@@ -50,16 +47,12 @@ body {
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
-  background-color: #f44f4e;
-  color:white;
+ 
 }
 .jumbotron .btn {
   padding: 14px 24px;
   font-size: 21px;
 
-}
-.jumbotron h2{
-  margin-top:-20px;
 }
 
 /* Supporting marketing content */
@@ -72,10 +65,7 @@ body {
 .marketing p + h4 {
   
 }
-.marketing h4 {
-  color:#f44f4e;
 
-}
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: 768px) {
