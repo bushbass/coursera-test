@@ -10,6 +10,8 @@ body{
 }
 #nav-list{
 	background-color: #E4E9E5;
+	border-right: 1px solid black;
+	border-left: 1px solid black;
 
 }
 #menuTitle{
