@@ -15,6 +15,7 @@ body{
 	border-right: 1px solid black;
 	border-left: 1px solid black;
 
+
 }
 #menuTitle{
 	padding: 15px 15px 20px;
@@ -28,8 +29,11 @@ body{
 
 
 @media (max-width: 767px) {
-  .container{
+  
+  #chickenSection{
   	width: 90%;
+  	margin-left: 30px;
+  	margin-right: auto;
   }
 }
 }
